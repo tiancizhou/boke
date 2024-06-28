@@ -105,4 +105,4 @@ deploy:
   #repo: https://github.com/Bob20020619/Bob20020619.github.io
   repo: root@121.41.44.111:/home/git/newblog.git
   #branch: master
-  branch: main
+  branch: master
